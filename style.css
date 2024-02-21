@@ -30,6 +30,7 @@ img {
 body {
   background-color: var(--Eggshell);
   position: relative;
+  color: var(--DarkCharcoal);
 }
 main {
   padding: 2.635rem 2rem;
